@@ -1,4 +1,4 @@
-# 🌊 IcebergPro – Advanced Data Analytics & Visualization
+# 🧊 GlacierLens – Advanced Data Analytics & Visualization
 
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
