@@ -17,17 +17,6 @@ Transform raw iceberg sighting data into structured, queryable datasets with int
 * **Pandas:** Data parsing and transformation.
 * **Node.js (Future):** Potential for a Node.js API layer for scalability.
 
-## 🛠️ Technologies Used
-
-* **AWS Lambda:** Serverless data processing for high scalability.
-* **DynamoDB:** NoSQL database for structured iceberg data storage.
-* **S3:** Data ingestion and cloud storage for JSON datasets.
-* **Flask:** Backend API server for data querying and visualization.
-* **Leaflet.js:** Dynamic, high-performance map visualization.
-* **Boto3:** AWS SDK for Python to interface with S3 and DynamoDB.
-* **Pandas:** Data parsing and transformation.
-* **Node.js (Future):** Potential for a Node.js API layer for scalability.
-
 ## 📂 Project Structure
 
 /IcebergPro/
